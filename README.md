@@ -7,7 +7,7 @@ This project analyses public mobile app reviews and compares two approaches:
 
 The goal is simple: show how customer reviews can be turned into useful product signals such as sentiment, problem areas, and requested improvements.
 
-[GitHub repo](https://github.com/tamas-j/llm-classifier) · Live demo URL coming after deploy
+[GitHub repo](https://github.com/tamas-j/gemini-classifier) · [Live demo](https://review-classifier-ten.vercel.app/)
 
 ![App screenshot](docs/app-screenshot.png)
 
