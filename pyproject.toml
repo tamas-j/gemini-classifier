@@ -1,0 +1,15 @@
+[project]
+name = "app-review-gemini-classifier"
+version = "0.1.0"
+description = "Multilingual app-review classification with Gemini structured outputs and a traditional NLP benchmark"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.0.0",
+    "google-play-scraper>=1.2.7",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "scikit-learn>=1.4.0",
+    "transformers>=4.41.0",
+    "torch>=2.2.0",
+]

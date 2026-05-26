@@ -1,0 +1,102 @@
+{
+  "ios_674258465_13788500173": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["other"],
+    "improvement_signals": ["Ich habe extra mit Klarna gezahlt damit das noch sichere ist, aber die Betrüger haben sich als K"],
+    "language": "de",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "ios_674258465_13893760816": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["ui", "transfers"],
+    "improvement_signals": ["Dismal Opened an account to make a transfer of a whopping 45000 pesos (~€10) to a friend here in"],
+    "language": "de",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_remitly_androidapp_d4af7489-5109-430a-9385-0d6edb588cc1": {
+    "primary_label": "negative",
+    "confidence": 0.6,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["performance", "transfers"],
+    "improvement_signals": ["remity app is good but something to increase about transfer is so slow"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_remitly_androidapp_ba67979d-f767-4878-8190-0406fa1d05f8": {
+    "primary_label": "negative",
+    "confidence": 0.6,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["other"],
+    "improvement_signals": ["Proper frustrating"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_remitly_androidapp_0f9f8aec-ba29-4dcc-bac4-2440b1d5b1d2": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["other"],
+    "improvement_signals": [],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_revolut_revolut_3d8fadc9-46fc-4842-b928-db28e1a76ab4": {
+    "primary_label": "very_positive",
+    "confidence": 0.75,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["fees"],
+    "improvement_signals": [],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_transferwise_android_9cf63d70-c902-49b3-8adf-b8a8aacbba17": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["fees"],
+    "improvement_signals": ["Too much charges"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_worldremit_android_6404b143-4e5d-489f-810b-961db7f1747e": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["support"],
+    "improvement_signals": ["How many times I contacted their customer service but still nothing happened", "They didn't resolve the problem and their agent has an attitude"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_worldremit_android_ed9d3bba-f774-4bdd-9df8-402b76c5e780": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["security"],
+    "improvement_signals": ["used by Kenyan scammers"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  },
+  "android_com_xoom_android_app_45238f01-e6fc-453e-8cc6-085ec56818e7": {
+    "primary_label": "neutral",
+    "confidence": 0.5,
+    "rationale": "Multilingual lexicon score plus keyword aspect matching.",
+    "aspects": ["login"],
+    "improvement_signals": ["unable to login"],
+    "language": "en",
+    "method": "lexicon+aspect-lexicon",
+    "cached": true
+  }
+}

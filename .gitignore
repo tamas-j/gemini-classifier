@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Secrets
+.env
+.env.local
+.env*.local
+
+# Generated outputs (create locally)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
